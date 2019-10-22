@@ -34,3 +34,7 @@ atom-text-editor .cursor {
 p {
   border: 1px solid powderblue;
 }
+
+h1 {
+  color: #00ff00;
+}
